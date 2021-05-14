@@ -1,6 +1,3 @@
-= Matrix Library for Arduino =
-== License ==
-
 # How to import the library
 
 1. Download the repository as zip
@@ -44,4 +41,4 @@ void loop(){
 }
 ```
 
-###### There are still some things that are not implemented I may come back to it when I have arduino near me again
+###### There are still some things that are not implemented I may come back to it when I have arduino near me again (Also I'll fix the interrupt routine timings)
