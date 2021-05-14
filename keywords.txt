@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For Matrix
+#######################################
+
+#######################################
+# Methods and Functions
+#######################################
+
+IsBusy			MATRIX
+Attach			MATRIX
+Interrupt		MATRIX
+DrawText		MATRIX
+SetString		MATRIX
+DrawMatrix		MATRIX
+Shift			MATRIX
+SetPoint		MATRIX
+RemovePoint		MATRIX
+DrawPoints		MATRIX
+
+#######################################
+# Constants
+#######################################
+
