@@ -8,6 +8,7 @@
 
 | Method                            | Description                                             |
 |-----------------------------------|---------------------------------------------------------|
+| Matrix(const int latch, const int data, const int clock) | Constructor                      |
 | Matrix::DrawText()                | Draws text on the led matrix                            |
 | Matrix::Attach()                  | Sets passed pins to output mode                         |
 | Matrix::IsBusy()                  | Checks if we are finished projecting @return boolean    |
